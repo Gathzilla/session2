@@ -32,6 +32,7 @@ function getPokemon(){
 getPokemon();
 getPokemon();
 getPokemon();
+getPokemon();
 
 function cargarPokemonCard (pokemon) {
 
